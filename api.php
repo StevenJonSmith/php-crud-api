@@ -5554,3 +5554,4 @@ $request = new Request();
 $api = new Api($config);
 $response = $api->handle($request);
 $response->output();
+?>
